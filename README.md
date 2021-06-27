@@ -13,6 +13,9 @@ Gripper.001 - Waist - Base - Arm 02 - Arm 01
  z = 47.82 cm
  
 # 2- الزوايا التي تم تعديلها لتنسيق الذراع 
+
 EndEffector = 90 ْ - P
+
 Arm 01 = 90 ْ - B
+
 Arm 02 = 180 ْ - B
